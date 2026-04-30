@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "2009-10-2",
+        "temperature": 12.0,
+        "description": "42",
+        "precipitation": "Да"
+    },
+    {
+        "id": 2,
+        "date": "2020-12-20",
+        "temperature": 90.0,
+        "description": "125",
+        "precipitation": "Нет"
+    }
+]
